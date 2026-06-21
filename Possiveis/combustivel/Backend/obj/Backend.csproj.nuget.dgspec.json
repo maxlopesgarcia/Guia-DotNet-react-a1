@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\possivel prova a1 combustivel\\Backend\\Backend.csproj": {}
+    "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\Possiveis\\combustivel\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\possivel prova a1 combustivel\\Backend\\Backend.csproj": {
+    "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\Possiveis\\combustivel\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\possivel prova a1 combustivel\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\Possiveis\\combustivel\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\possivel prova a1 combustivel\\Backend\\Backend.csproj",
+        "projectPath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\Possiveis\\combustivel\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\possivel prova a1 combustivel\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\Possiveis\\combustivel\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config"

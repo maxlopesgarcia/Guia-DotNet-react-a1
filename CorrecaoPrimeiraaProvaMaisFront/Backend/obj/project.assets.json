@@ -2386,11 +2386,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\ProvaCReact\\Backend\\Deconto.csproj",
+      "projectUniqueName": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\CorrecaoPrimeiraaProvaMaisFront\\Backend\\Deconto.csproj",
       "projectName": "Deconto",
-      "projectPath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\ProvaCReact\\Backend\\Deconto.csproj",
+      "projectPath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\CorrecaoPrimeiraaProvaMaisFront\\Backend\\Deconto.csproj",
       "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\ProvaCReact\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\CorrecaoPrimeiraaProvaMaisFront\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config"

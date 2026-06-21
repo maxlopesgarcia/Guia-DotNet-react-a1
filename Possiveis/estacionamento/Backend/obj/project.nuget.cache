@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ABDSo1e3X1s=",
+  "dgSpecHash": "f2RC5KgGHWI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\estacionamento\\Backend\\Backend.csproj",
+  "projectFilePath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\Possiveis\\estacionamento\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Max\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Max\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

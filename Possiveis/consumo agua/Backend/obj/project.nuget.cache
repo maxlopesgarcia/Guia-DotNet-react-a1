@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dnPzbR1Lkh8=",
+  "dgSpecHash": "m7M+vE1CcFc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\possivel prova a2 consumo agua\\Backend\\Backend.csproj",
+  "projectFilePath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\Possiveis\\consumo agua\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Max\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Max\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

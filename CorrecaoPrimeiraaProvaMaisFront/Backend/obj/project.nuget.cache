@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FHi9nl8Qdtw=",
+  "dgSpecHash": "KQnpybcwjic=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\ProvaCReact\\Backend\\Deconto.csproj",
+  "projectFilePath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\CorrecaoPrimeiraaProvaMaisFront\\Backend\\Deconto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Max\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Max\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

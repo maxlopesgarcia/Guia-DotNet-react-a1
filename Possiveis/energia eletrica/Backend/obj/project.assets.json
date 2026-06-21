@@ -2531,11 +2531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\energia eletrica\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\Possiveis\\energia eletrica\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\energia eletrica\\Backend\\Backend.csproj",
+      "projectPath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\Possiveis\\energia eletrica\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\energia eletrica\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\Max\\OneDrive\\Desktop\\guia prova c + react\\Possiveis\\energia eletrica\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config"
