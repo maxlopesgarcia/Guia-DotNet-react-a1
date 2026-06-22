@@ -20,6 +20,7 @@
 - [14. Configurando o App.tsx](#14-configurando-o-apptsx)
 - [15. Rodando o projeto](#15-rodando-o-projeto)
 - [16. Commits Git ao longo do projeto](#16-commits-git-ao-longo-do-projeto)
+- [17. Clonando o repositório e restaurando dependências](#17-clonando-o-repositório-e-restaurando-dependências)
 
 ---
 
@@ -858,6 +859,34 @@ git add .
 git commit -m "Configura rotas no App.tsx"
 ```
 > Commit final após configurar a navegação.
+
+---
+
+## 17. Clonando o repositório e restaurando dependências
+
+Ao clonar o repositório, as pastas `bin/`, `obj/` e `node_modules/` não vêm junto (ficam no `.gitignore`). Use os comandos abaixo para recriá-las:
+
+```bash
+git clone https://github.com/maxlopesgarcia/Guia-DotNet-react-a1.git
+cd Guia-DotNet-react-a1/CorrecaoPrimeiraProvaMaisFrontEAlgumasCoisasExtras
+```
+> Clona o repositório e entra na pasta do exercício.
+
+**Backend — restaurar pacotes NuGet:**
+```bash
+cd Backend
+dotnet restore
+```
+> Baixa todos os pacotes NuGet listados no `.csproj`. Recria a pasta `obj/` automaticamente.
+
+**Frontend — restaurar node_modules:**
+```bash
+cd ../front
+npm install
+```
+> Baixa todas as dependências listadas no `package.json`. Recria a pasta `node_modules/`.
+
+Após isso, o projeto está pronto para rodar normalmente com `dotnet run` no Backend e `npm start` no Frontend.
 
 ---
 
