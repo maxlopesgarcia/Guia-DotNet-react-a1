@@ -1,0 +1,29 @@
+### Popular base de dados
+POST http://localhost:5063/api/livro/popular
+
+### Cadastrar livro
+POST http://localhost:5063/api/livro/cadastrar
+Content-Type: application/json
+
+{
+    "nome" : "Simples II",
+    "autor" : "Diogo Deconto"
+}
+
+### Listar livros
+GET http://localhost:5063/api/livro/listar
+
+### Buscar Livro
+GET http://localhost:5063/api/livro/buscar/Orientação a Objetos
+
+### Emprestar Livro
+PUT http://localhost:5063/api/livro/emprestar/5
+
+### Devolver Livro
+PUT http://localhost:5063/api/livro/devolver/5
+
+### Livros disponíveis
+GET http://localhost:5063/api/livro/disponiveis
+
+### Livros emprestados
+GET http://localhost:5063/api/livro/emprestados
